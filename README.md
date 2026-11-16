@@ -40,6 +40,9 @@ This notebook explores:
   - Dictionary methods
   - Practical applications
 
+### 3. Additional Exercises (`Python_Exercises.ipynb`)
+Practice exercises (TO DO cells) covering variables, conditions, loops, lists/tuples, sets/dictionaries, functions, error handling, and a mini project.
+
 ---
 
 ## 🎯 Learning Objectives
